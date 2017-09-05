@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Click">Click Me!</string>
+  <string name="Show">Show Click Times</string>
+    <string name="ApplicationName">Click App</string>
+</resources>
